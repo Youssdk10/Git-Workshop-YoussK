@@ -5,4 +5,4 @@ Links we will be using:
 - [Git commands cheat sheet](https://docs.google.com/document/d/1cIZW1V1b6eLvMQ0qI0msRTERUDM6Ipt6lxstjGI88Qc/edit?tab=t.0#heading=h.6ht83igcipm8)
 
 
-![Git Command visual](/git visual.png)
+![Git Command visual](git visual.png)
